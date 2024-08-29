@@ -1,0 +1,1 @@
+export type TColor = "sky" | "blue" | "cyan" | "red";
